@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>发现</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="发现">
+            <g>
+                <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-12" x="2" y="2" width="20" height="20"></rect>
+                <path d="M12,21.5 C17.2467051,21.5 21.5,17.2467051 21.5,12 C21.5,6.75329488 17.2467051,2.5 12,2.5 C6.75329488,2.5 2.5,6.75329488 2.5,12 C2.5,17.2467051 6.75329488,21.5 12,21.5 Z" id="Oval-3" stroke="#2B333B" stroke-width="2"></path>
+                <circle id="Oval-3" stroke="#2B333B" stroke-width="2" cx="12" cy="12" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

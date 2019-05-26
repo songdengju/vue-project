@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="back">
+            <g>
+                <rect id="Rectangle-6" x="0" y="0" width="14" height="14"></rect>
+                <path d="M10.7215253,1.70710678 C11.0928249,1.31658249 11.0928249,0.683417511 10.7215253,0.292893219 C10.3502257,-0.0976310729 9.74823002,-0.0976310729 9.3769304,0.292893219 L3,7 L9.3769304,13.7071068 C9.74823002,14.0976311 10.3502257,14.0976311 10.7215253,13.7071068 C11.0928249,13.3165825 11.0928249,12.6834175 10.7215253,12.2928932 L5.68918977,7 L10.7215253,1.70710678 Z" id="Path-2" fill="#2B333B" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
